@@ -15,8 +15,7 @@ Skills: REACT / JS / HTML / CSS / BOOTSTRAP / SASS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' height='40'>](https://github.com/iksagor0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/iksagor0)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iksagor0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/iksagor0)  
 
-
-![Profile views](https://gpvc.arturio.dev/iksagor0) 
+![GitHub metrics](https://metrics.lecoq.io/iksagor0)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=iksagor0)](https://github.com/ryo-ma/github-profile-trophy) -->
 
@@ -24,13 +23,11 @@ Skills: REACT / JS / HTML / CSS / BOOTSTRAP / SASS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iksagor0&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iksagor0)  
-
-![GitHub metrics](https://metrics.lecoq.io/iksagor0)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iksagor0)    
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=iksagor0)  
 
-
+![Profile views](https://gpvc.arturio.dev/iksagor0) 
 
 
 
