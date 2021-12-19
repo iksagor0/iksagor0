@@ -13,7 +13,7 @@ Skills: REACT / JS / HTML / CSS / BOOTSTRAP / SASS
 - 📫 How to reach me: iksagor@gmail.com or +8801832400687 (Whatsapp) 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' style='color: #FF5733; margin: 5px;' alt='github' height='40'>](https://github.com/iksagor0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/iksagor0) color='red' margin='5px' style="color: #FF5733; margin: 5px;" [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iksagor0) style="color: #FF5733; margin: 5px;"  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40' style="color: #FF5733; margin: 5px;">](https://codepen.io/iksagor0)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' height='40'>](https://github.com/iksagor0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/iksagor0)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iksagor0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/iksagor0)  
 
 
 ![Profile views](https://gpvc.arturio.dev/iksagor0) 
