@@ -12,7 +12,7 @@ I build websites that delight and inform. I do it well. I always try my best to 
 - 📫 How to reach me: iksagor@gmail.com or +8801832400687 (Whatsapp) 
 <br>
 
-<h4>My Skills</h4>
+<h4>My Skills:</h4>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
                 alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
@@ -34,8 +34,10 @@ I build websites that delight and inform. I do it well. I always try my best to 
             </a> 
  </p>
  
-
+<br>
+<h4>Social Media:</h4>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' height='40'>](https://github.com/iksagor0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/iksagor0)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iksagor0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/iksagor0)  
+<br>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=iksagor0)](https://github.com/ryo-ma/github-profile-trophy) -->
 
