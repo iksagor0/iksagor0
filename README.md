@@ -10,12 +10,14 @@ Skills: REACT / JS / HTML / CSS / BOOTSTRAP / SASS
 
 - 🔭 I’m currently working on Some React Project. 
 - 🌱 I’m currently learning Advance JS and React. 
-- 📫 How to reach me: iksaagor@gmail.com or +8801832400687 (Whatsapp) 
+- 📫 How to reach me: iksagor@gmail.com or +8801832400687 (Whatsapp) 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iksagor0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/iksagor0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iksagor0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/iksagor0)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style="color: #FF5733; margin: 5px;">](https://github.com/iksagor0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/iksagor0) style="color: #FF5733; margin: 5px;" [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iksagor0) style="color: #FF5733; margin: 5px;"  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40' style="color: #FF5733; margin: 5px;">](https://codepen.io/iksagor0)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=iksagor0)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=iksagor0)  
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=iksagor0)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iksagor0)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -24,8 +26,6 @@ Skills: REACT / JS / HTML / CSS / BOOTSTRAP / SASS
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iksagor0)  
 
 ![GitHub metrics](https://metrics.lecoq.io/iksagor0)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=iksagor0)  
 
 ![Profile views](https://gpvc.arturio.dev/iksagor0)  
 
