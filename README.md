@@ -1,31 +1,33 @@
-<!-- <h1 align="center">Hi 👋, I'm Ibrahim Khalil Sagor</h1>
-<h3 align="center">A passionate front-end developer from Bangladesh</h3>
+### Hi there 👋, Hi 👋, I'm Ibrahim Khalil Sagor
+#### A passionate front-end developer from Bangladesh. I can provide you a strong support to make a Web Project by using HTML, CSS, Bootstrap, Javascript and React.
+I spend my whole day to practice and experimenting with HTML, CSS, and JavaScript also dabbling with React.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iksagor0&label=Profile%20views&color=0e75b6&style=flat" alt="iksagor0" /> </p>
+I’m curious, and I enjoy work that challenges me to learn something new and stretch in a different direction.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iksagor0" alt="iksagor0" /></a> </p>
+I build websites that delight and inform. I do it well. I always try my best to complete a project.
 
-- 🌱 I’m currently learning **Advance JS and React**
+Skills: REACT / JS / HTML / CSS / BOOTSTRAP / SASS
 
-- 💬 Ask me about **Frond-End Development**
-
-- 📫 To reach me **iksagor@gmail.com or +8801832400687(whatsapp)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/facebook.com/iksagor0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/iksagor0" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iksagor0&show_icons=true&locale=en&layout=compact" alt="iksagor0" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iksagor0&show_icons=true&locale=en" alt="iksagor0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iksagor0&" alt="iksagor0" /></p> -->
+- 🔭 I’m currently working on Some React Project. 
+- 🌱 I’m currently learning Advance JS and React. 
+- 📫 How to reach me: iksaagor@gmail.com or +8801832400687 (Whatsapp) 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iksagor0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/iksagor0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/iksagor0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/iksagor0)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=iksagor0)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iksagor0)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iksagor0&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iksagor0)  
+
+![GitHub metrics](https://metrics.lecoq.io/iksagor0)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=iksagor0)  
+
+![Profile views](https://gpvc.arturio.dev/iksagor0)  
 
 
 
