@@ -3,10 +3,9 @@
 I spend my whole day to practice and experimenting with HTML, CSS, and JavaScript also dabbling with React.
 
 I’m curious, and I enjoy work that challenges me to learn something new and stretch in a different direction.
-
 I build websites that delight and inform. I do it well. I always try my best to complete a project.
 
-Skills: REACT / JS / HTML / CSS / BOOTSTRAP / SASS
+### Skills: REACT / JS / HTML / CSS / BOOTSTRAP / SASS
 
 - 🔭 I’m currently working on Some React Project. 
 - 🌱 I’m currently learning Advance JS and React. 
