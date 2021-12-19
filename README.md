@@ -1,4 +1,4 @@
-### Hi there 👋, Hi 👋, I'm Ibrahim Khalil Sagor
+# Hi there 👋, I'm Ibrahim Khalil Sagor
 #### A passionate front-end developer from Bangladesh. I can provide you a strong support to make a Web Project by using HTML, CSS, Bootstrap, Javascript and React.
 I spend my whole day to practice and experimenting with HTML, CSS, and JavaScript also dabbling with React.
 
@@ -17,7 +17,7 @@ Skills: REACT / JS / HTML / CSS / BOOTSTRAP / SASS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iksagor0)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iksagor0)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iksagor0)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iksagor0&show_icons=true&count_private=true)  
 
