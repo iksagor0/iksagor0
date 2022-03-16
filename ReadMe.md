@@ -17,17 +17,15 @@ I build websites that delight and inform. I do it well. I always try my best to 
 - 🔭 I’m currently working on Some React Project. 
 - 🌱 I’m currently learning Advance JS and React. 
 - 📫 How to reach me: iksagor@gmail.com or +8801832400687 (Whatsapp) 
-<br>
 
-<h4 style="text-decoration: 1px solid #000 underline;">Netlify lives:</h4>
+<h4>Netlify lives:</h4>
 <a href="https://applab-iks.netlify.app/" target="_blank" rel="noreferrer">AppLab</a> <br>
 <a href="https://patata-web.netlify.app/" target="_blank" rel="noreferrer">Patata Restaurant</a> <br>
 <a href="https://validate-form-iks.netlify.app/" target="_blank" rel="noreferrer">Validate Form</a> <br>
 <a href="https://react-kid-sport.netlify.app/" target="_blank" rel="noreferrer">Kid School</a> <br>
-<a href="https://the-mordernist.netlify.app/" target="_blank" rel="noreferrer">Kid School</a> <br>
-<br>
+<a href="https://the-mordernist.netlify.app/" target="_blank" rel="noreferrer">The Mordernist</a> <br>
 
-<h4 style="text-decoration: 1px solid #000 underline;">My Skills:</h4>
+<h4>My Skills:</h4>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
                 alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
