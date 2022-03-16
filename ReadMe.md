@@ -21,10 +21,10 @@ I build websites that delight and inform. I do it well. I always try my best to 
 
 <br>
 <h4>Netlify lives</h4>
-<a href="https://applab-iks.netlify.app/" target="_blank" style="display:block; text-decoration:none" rel="noreferrer">AppLab</a>
-<a href="https://patata-web.netlify.app/" target="_blank" style="display:block; text-decoration:none" rel="noreferrer">Patata Restaurant</a>
-<a href="https://validate-form-iks.netlify.app/" target="_blank" style="display:block; text-decoration:none" rel="noreferrer">Validate Form</a>
-<a href="https://react-kid-sport.netlify.app/" target="_blank" style="display:block; text-decoration:none" rel="noreferrer">Kid School</a>
+<a href="https://applab-iks.netlify.app/" target="_blank" style="display:block; margin-left:10px; text-decoration:none" rel="noreferrer">AppLab</a>
+<a href="https://patata-web.netlify.app/" target="_blank" style="display:block; margin-left:10px; text-decoration:none" rel="noreferrer">Patata Restaurant</a>
+<a href="https://validate-form-iks.netlify.app/" target="_blank" style="display:block; margin-left:10px; text-decoration:none" rel="noreferrer">Validate Form</a>
+<a href="https://react-kid-sport.netlify.app/" target="_blank" style="display:block; margin-left:10px; text-decoration:none" rel="noreferrer">Kid School</a>
 <br>
 
 <h4>My Skills:</h4>
