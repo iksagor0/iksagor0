@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
 # Hi there 👋, I'm Ibrahim Khalil Sagor
 #### A passionate front-end developer from Bangladesh. I can provide you a strong support to make a Web Project by using HTML, CSS, Bootstrap, Javascript and React.
 I spend my whole day to practice and experimenting with HTML, CSS, and JavaScript also dabbling with React.
@@ -10,6 +17,14 @@ I build websites that delight and inform. I do it well. I always try my best to 
 - 🔭 I’m currently working on Some React Project. 
 - 🌱 I’m currently learning Advance JS and React. 
 - 📫 How to reach me: iksagor@gmail.com or +8801832400687 (Whatsapp) 
+<br>
+
+<br>
+<h4>Netlify lives</h4>
+<a href="https://applab-iks.netlify.app/" target="_blank" style="display:block; text-decoration:none" rel="noreferrer">AppLab</a>
+<a href="https://patata-web.netlify.app/" target="_blank" style="display:block; text-decoration:none" rel="noreferrer">Patata Restaurant</a>
+<a href="https://validate-form-iks.netlify.app/" target="_blank" style="display:block; text-decoration:none" rel="noreferrer">Validate Form</a>
+<a href="https://react-kid-sport.netlify.app/" target="_blank" style="display:block; text-decoration:none" rel="noreferrer">Kid School</a>
 <br>
 
 <h4>My Skills:</h4>
@@ -69,3 +84,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+</body>
+</html>
+
