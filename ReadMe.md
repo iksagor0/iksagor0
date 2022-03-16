@@ -20,10 +20,11 @@ I build websites that delight and inform. I do it well. I always try my best to 
 <br>
 
 <h4>Netlify lives</h4>
-<a href="https://applab-iks.netlify.app/" target="_blank" rel="noreferrer">AppLab</a>
-<a href="https://patata-web.netlify.app/" target="_blank" rel="noreferrer">Patata Restaurant</a>
-<a href="https://validate-form-iks.netlify.app/" target="_blank" rel="noreferrer">Validate Form</a>
-<a href="https://react-kid-sport.netlify.app/" target="_blank" rel="noreferrer">Kid School</a>
+<a href="https://applab-iks.netlify.app/" target="_blank" rel="noreferrer">AppLab</a> <br>
+<a href="https://patata-web.netlify.app/" target="_blank" rel="noreferrer">Patata Restaurant</a> <br>
+<a href="https://validate-form-iks.netlify.app/" target="_blank" rel="noreferrer">Validate Form</a> <br>
+<a href="https://react-kid-sport.netlify.app/" target="_blank" rel="noreferrer">Kid School</a> <br>
+<a href="https://the-mordernist.netlify.app/" target="_blank" rel="noreferrer">Kid School</a> <br>
 <br>
 
 <h4>My Skills:</h4>
