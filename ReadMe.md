@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
-
 # Hi there 👋, I'm Ibrahim Khalil Sagor
 #### A passionate front-end developer from Bangladesh. I can provide you a strong support to make a Web Project by using HTML, CSS, Bootstrap, Javascript and React.
 I spend my whole day to practice and experimenting with HTML, CSS, and JavaScript also dabbling with React.
@@ -82,8 +75,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-</body>
-</html>
 
