@@ -11,7 +11,7 @@ I build websites that delight and inform. I do it well. I always try my best to 
 - 🔭 I’m currently working as a Frontend Developer. 
 - 📫 How to reach me: iksagor@gmail.com or +8801832400687 (Whatsapp) 
 
-<h4>Netlify lives:</h4>
+<h4>Projects (Recent Works):</h4>
 <a href="https://afi.org/" target="_blank" rel="noreferrer">Arm Forces Insurance (AFI)</a> <br>
 <a href="https://www.adecco.co.uk/" target="_blank" rel="noreferrer">Adecco UK</a> <br>
 <a href="https://innit-store.vercel.app/" target="_blank" rel="noreferrer">Innit Store - Ecommerce (Dev Link)</a> <br>
