@@ -25,7 +25,7 @@ I build websites that delight and inform. I do it well. I always try my best to 
 <table>
   <tr>
     <td valign="top" width="60%">
-      ### Frontend
+      <h3>Frontend</h3>
       <div align="center">
         <a href="https://reactjs.org/" target="_blank"
           ><img
@@ -75,14 +75,7 @@ I build websites that delight and inform. I do it well. I always try my best to 
             src="https://profilinator.rishav.dev/skills-assets/logo-title.svg"
             alt="Chart.js"
             height="50"
-        /></a>
-        <a href="https://www.mongodb.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg"
-            alt="MongoDB"
-            height="50"
-        /></a>
+        /></a>=
         <a href="https://www.jestjs.io/" target="_blank"
           ><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50"
         /></a>
@@ -101,8 +94,10 @@ I build websites that delight and inform. I do it well. I always try my best to 
         /></a>
       </div>
     </td>
+
+    
     <td valign="top" width="40%">
-      ### Backend
+      <h3>Backend</h3>
       <div align="center">
         <a href="https://www.javascript.com/" target="_blank"
           ><img
@@ -146,6 +141,7 @@ I build websites that delight and inform. I do it well. I always try my best to 
     </td>
   </tr>
 </table>
+
 
 
 
