@@ -75,13 +75,6 @@ I build websites that delight and inform. I do it well. I always try my best to 
             alt="Chart.js"
             height="50"
         /></a>
-        <a href="https://www.mongodb.com/" target="_blank"
-          ><img
-            style="margin: 10px"
-            src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg"
-            alt="MongoDB"
-            height="50"
-        /></a>
         <a href="https://www.jestjs.io/" target="_blank"
           ><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50"
         /></a>
