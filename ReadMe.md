@@ -1,23 +1,23 @@
 # Hi there 👋, I'm Ibrahim Khalil Sagor
-#### A passionate front-end developer from Bangladesh. I can provide you a strong support to make a Web Project by using HTML, CSS, Bootstrap, Javascript and React.
-I spend my whole day to practice and experimenting with HTML, CSS, and JavaScript also dabbling with React.
+#### A passionate Web Developer with several years of experience. I have worked on website designs (Frontend) for various companies. I've also tackled backend projects using NodeJS.
+
+I can help you build strong web applications using popular tools like React, NextJS, and NodeJS. I'm always eager to learn and love challenges that push me to grow my skills in new areas.
 
 I’m curious, and I enjoy work that challenges me to learn something new and stretch in a different direction.
 I build websites that delight and inform. I do it well. I always try my best to complete a project.
 
 <!-- ### Skills: REACT / JS / HTML / CSS / BOOTSTRAP / SASS -->
 
-- 🔭 I’m currently working on Some React Project. 
-- 🌱 I’m currently learning Advance JS and React. 
+- 🔭 I’m currently working as a Frontend Developer. 
 - 📫 How to reach me: iksagor@gmail.com or +8801832400687 (Whatsapp) 
 
 <h4>Netlify lives:</h4>
-<a href="https://applab-iks.netlify.app/" target="_blank" rel="noreferrer">AppLab</a> <br>
-<a href="https://patata-web.netlify.app/" target="_blank" rel="noreferrer">Patata Restaurant</a> <br>
-<a href="https://validate-form-iks.netlify.app/" target="_blank" rel="noreferrer">Validate Form</a> <br>
-<a href="https://react-kid-sport.netlify.app/" target="_blank" rel="noreferrer">Kid School</a> <br>
-<a href="https://the-mordernist.netlify.app/" target="_blank" rel="noreferrer">The Mordernist</a> <br>
-<a href="https://orion-instalogic.netlify.app/" target="_blank" rel="noreferrer">Orion-instalogic</a> <br>
+<a href="https://afi.org/" target="_blank" rel="noreferrer">Arm Forces Insurance (AFI)</a> <br>
+<a href="https://www.adecco.co.uk/" target="_blank" rel="noreferrer">Adecco UK</a> <br>
+<a href="https://innit-store.vercel.app/" target="_blank" rel="noreferrer">Innit Store - Ecommerce (Dev Link)</a> <br>
+<a href="https://devapp1.gocontract.co.uk/" target="_blank" rel="noreferrer">GoContract</a> <br>
+<a href="https://frontend-bangladesh-univarsity.vercel.app/" target="_blank" rel="noreferrer">Bangladesh University (Dev Link)</a> <br>
+<a href="https://www.essentialenergy.com.au/" target="_blank" rel="noreferrer">Essential Energy</a> <br>
 
 <h4>My Skills:</h4>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
