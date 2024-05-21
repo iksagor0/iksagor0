@@ -8,8 +8,9 @@ I build websites that delight and inform. I do it well. I always try my best to 
 
 <!-- ### Skills: REACT / JS / HTML / CSS / BOOTSTRAP / SASS -->
 
-- 🔭 I’m currently working as a Frontend Developer. 
-- 📫 How to reach me: iksagor@gmail.com or +8801832400687 (Whatsapp) 
+- 🔭 I’m currently working as a Frontend Developer.
+- ✨Worked on several projects as a MERN developer.
+- 📫 How to reach me: iksagor@gmail.com or +8801832400687 (Whatsapp).
 
 ## Projects (Recent Works)
 <a href="https://afi.org/" target="_blank" rel="noreferrer">Arm Forces Insurance (AFI)</a> <br>
@@ -103,13 +104,13 @@ I build websites that delight and inform. I do it well. I always try my best to 
             alt="JavaScript"
             height="50"
         /></a>
-        <a href="https://www.typescriptlang.org/" target="_blank"
+<!--         <a href="https://www.typescriptlang.org/" target="_blank"
           ><img
             style="margin: 10px"
             src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg"
             alt="TypeScript"
             height="50"
-        /></a>
+        /></a> -->
         <a href="https://www.mongodb.com/" target="_blank"
           ><img
             style="margin: 10px"
