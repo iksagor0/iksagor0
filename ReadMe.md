@@ -10,7 +10,10 @@
 - I also ship with AI coding agents (Claude Code), and I own the plan, the review and the result
 
 ### Tech
-React · Next.js · TypeScript · JavaScript (ES6+) · HTML5 · CSS3 / Sass · Redux Toolkit · React Query · Tailwind CSS · Material UI · Node.js · Express.js · MongoDB · REST APIs · WebSockets · Python/FastAPI · Git
+- **Frontend:** React · Next.js (App Router, SSR) · TypeScript · JavaScript (ES6+) · HTML5 · CSS3 / Sass · Tailwind CSS · Material UI · Three.js
+- **State and data:** Redux Toolkit · React Query · REST APIs · WebSockets
+- **Quality:** Vitest · React Testing Library · Playwright · Accessibility (WCAG 2.2 AA) · Core Web Vitals
+- **Backend:** Node.js · Express.js · MongoDB · Python/FastAPI · Git
 
 ### Find me
 [LinkedIn](https://www.linkedin.com/in/ibrahim-khalil-js) · [iksagor@gmail.com](mailto:iksagor@gmail.com)
