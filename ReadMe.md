@@ -4,18 +4,13 @@
 
 - 5+ years building web apps, with teams and clients in the US and UK
 - Today: leading the CAD development team at IDEEZA (React + TypeScript editor, Python/FastAPI backend)
-- Before that: subscriptions and payments, KYC onboarding, real-time chat, role-based admin panels, a UI in 6 languages
-- I ship with AI coding agents (Claude Code) and own the plan, the review and the result
+- Before that: subscriptions and payments, KYC onboarding, real-time chat, role-based admin panels
+- Strong fundamentals: vanilla JavaScript, the DOM and how the browser really behaves (events, rendering, layout, performance)
+- I debug by hand first: DevTools, breakpoints, the network tab and the profiler, then reproduce and fix
+- I also ship with AI coding agents (Claude Code), and I own the plan, the review and the result
 
 ### Tech
-React · Next.js · TypeScript · JavaScript · Redux Toolkit · React Query · Tailwind CSS · Material UI · Node.js · Express.js · MongoDB · REST APIs · WebSockets · Python/FastAPI · Git
-
-### Featured
-| Project | What it is | Stack |
-|---|---|---|
-| [Kaizen](https://kaizen-bd.vercel.app/) | Habit tracker, markdown notebook and resource vault, with Google sync and guest mode | Next.js, TypeScript, Tailwind, Firebase |
-| [Braintree demo](https://braintree-demo-with-next-js.vercel.app) | Card checkout with the Braintree Drop-in UI and a Next.js API route | Next.js, Braintree |
-| [Post Timeline](https://task-gold-kinen.vercel.app) | Timeline that merges posts from several APIs, with expandable comments | React, Redux, TypeScript, Tailwind |
+React · Next.js · TypeScript · JavaScript (ES6+) · HTML5 · CSS3 / Sass · Redux Toolkit · React Query · Tailwind CSS · Material UI · Node.js · Express.js · MongoDB · REST APIs · WebSockets · Python/FastAPI · Git
 
 ### Find me
-[LinkedIn](https://www.linkedin.com/in/ibrahim-khalil-js)
+[LinkedIn](https://www.linkedin.com/in/ibrahim-khalil-js) · [iksagor@gmail.com](mailto:iksagor@gmail.com)
